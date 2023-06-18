@@ -1,4 +1,4 @@
-package test.trie;
+package org.example.trie;
 
 public class Main {
 

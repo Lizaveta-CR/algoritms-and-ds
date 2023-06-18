@@ -1,4 +1,4 @@
-package test.binarytree;
+package org.example.binarytree;
 
 import java.util.ArrayDeque;
 import java.util.LinkedList;

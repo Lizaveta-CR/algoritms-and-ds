@@ -1,4 +1,4 @@
-package test.queue;
+package org.example.queue;
 
 public class QueueArr {
     int begin;

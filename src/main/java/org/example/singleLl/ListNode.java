@@ -1,6 +1,4 @@
-package test.singleLl;
-
-import java.util.LinkedList;
+package org.example.singleLl;
 
 public class ListNode {
     int val;

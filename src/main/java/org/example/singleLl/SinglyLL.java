@@ -1,4 +1,4 @@
-package test.singleLl;
+package org.example.singleLl;
 
 public class SinglyLL {
     private Node node;

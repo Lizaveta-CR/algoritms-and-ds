@@ -1,4 +1,4 @@
-package test.trie.custom;
+package org.example.trie.custom;
 
 import java.util.HashMap;
 import java.util.Map;

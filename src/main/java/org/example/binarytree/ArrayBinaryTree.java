@@ -1,4 +1,4 @@
-package test.binarytree;
+package org.example.binarytree;
 
 public class ArrayBinaryTree {
 
